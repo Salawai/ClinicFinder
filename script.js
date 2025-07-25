@@ -3,7 +3,7 @@ let map;
 let markers = [];
 
 window.onload = () => {
-  fetch('clinics.json')
+  fetch('./clinics.json')
     .then(res => res.json())
     .then(data => {
       clinicData = data;
