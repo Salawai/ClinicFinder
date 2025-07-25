@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 [
   {
     "name": "Hope Community Health",
@@ -21,27 +20,3 @@
     "lng": -97.743699
   }
 ]
-=======
-[
-  {
-    "name": "Hope Community Health",
-    "address": "123 Main St, Dallas, TX",
-    "zip": "75201",
-    "city": "Dallas",
-    "services": ["General Care", "Mental Health"],
-    "hours": "Mon–Fri 9am–5pm",
-    "lat": 32.779167,
-    "lng": -96.800278
-  },
-  {
-    "name": "Sunrise Free Clinic",
-    "address": "456 Oak Ave, Austin, TX",
-    "zip": "78701",
-    "city": "Austin",
-    "services": ["Women's Health"],
-    "hours": "Mon–Sat 8am–6pm",
-    "lat": 30.271128,
-    "lng": -97.743699
-  }
-]
->>>>>>> 133eeff94af05f50899d803d5d6fe4b5ad06fd3e
